@@ -1,18 +1,14 @@
 console.log(
-  `%c 
-                            ___......__             _
-                        _.-'           ~-_       _.=a~~-_
---=====-.-.-_----------~   .--.       _   -.__.-~ ( ___===>
-              '''--...__  (    \ \\\ { )       _.-~
-                        =_ ~_  \\-~~~//~~~~-=-~
-                         |-=-~_ \\   \\
-                         |_/   =. )   ~}
-                         |}      ||
-                        //       ||
-                      _//        {{
-                   '='~'          \\_    =
-                                   ~~'
-                              run! @sarah_edo is shitposting again!
+	`%c 
+  |   👀   |
+  \         /
+  ____| |_____
+/        ✊__/
+\_✊
+
+Might fuck around and override some stuff! 
+github: @himanshurattan
+twitter: @mr_asleep_
 `,
-  "font-family:monospace"
-)
+	'font-family:monospace'
+);
