@@ -6,6 +6,7 @@
 
 Made some changes to this amazing extension so that you can use it in 'Lights Out' mode and with blue color.
 Added the Trending section for those who find it important (me :/).
+Also, verification sign is back (LOL).
 Some other minor changes to suit the needs. 
 
 This version of twitter is very hard to override, so this extension is opinionated.
