@@ -97,7 +97,7 @@ div[role="blockquote"] {
 }
 
 article div div a + div:empty {
-	background: linear-gradient(rgb(242, 101, 102, 0.8), #1d1f33);
+	background: linear-gradient(rgb(25, 144, 219), #1d1f33);
 }
 
 div[data-testid="sidebarColumn"] {
