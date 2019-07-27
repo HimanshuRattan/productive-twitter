@@ -2,7 +2,7 @@
 
 > Twitter theme to increase productivity as per changes in July 2019.
 
-![Screenshot](https://s3-us-west-2.amazonaws.com/s.cdpn.io/28963/Screen%20Shot%202019-07-20%20at%2012.48.58%20PM.png)
+![twitter1](https://user-images.githubusercontent.com/35609063/61998439-b3a17d00-b0cd-11e9-845e-af61e79da2d3.JPG)
 
 Made some changes to this amazing extension so that you can use it in 'Lights Out' mode and with blue color.
 Added the Trending section for those who find it important (me :/).
