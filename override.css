@@ -4,6 +4,16 @@ nav div div div {
 	font-weight: 400 !important;
 	line-height: 1.3 !important;
 }
+div[aria-label="Timeline: Trending now"] {
+	visibility: visible !important;
+	width: 300px !important;
+	position: fixed !important;
+	top: 50px;
+	right: 20px;
+}
+.css-1dbjc4n div[role="button"] {
+	display: none;
+}
 
 aside[aria-label="Who to follow"] {
 	opacity: 0.6;
@@ -116,11 +126,6 @@ a[aria-label="Profile"] img {
 	height: 30px;
 	position: absolute;
 	opacity: 1;
-}
-
-svg[aria-label="Verified account"] {
-	/* lol */
-	display: none;
 }
 
 div[role="menu"],
