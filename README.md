@@ -10,4 +10,7 @@ Some other minor changes to suit the needs.
 
 This version of twitter is very hard to override, so this extension is opinionated.
 
+This isnt't available on chrome store so feel free to download and add it.
+You can find link to Sarah's version on the chrome store in her repo.
+
 If you want any changes to be made, do let me know. 😉
