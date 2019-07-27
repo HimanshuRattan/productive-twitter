@@ -1,42 +1,34 @@
 nav a div div,
 nav div div div {
-  font-size: 16px !important;
-  font-weight: 400 !important;
-  line-height: 1.3 !important;
-}
-
-div[aria-label="Timeline: Trending now"] {
-  display: none;
-}
-
-a[aria-label="Tweet"] {
-  display: none;
+	font-size: 16px !important;
+	font-weight: 400 !important;
+	line-height: 1.3 !important;
 }
 
 aside[aria-label="Who to follow"] {
-  opacity: 0.6;
+	opacity: 0.6;
 }
 
 h2 div {
-  font-weight: 400 !important;
+	font-weight: 400 !important;
 }
 
 header {
-  margin-left: -7vw !important;
+	margin-left: -7vw !important;
 }
 
 div[data-testid="primaryColumn"] {
-  max-width: 650px !important;
-  box-shadow: 0 0 20px 6px rgba(0, 0, 0, 0.3);
-  background-color: rgb(21, 32, 43);
-  border-color: #0d161e !important;
+	max-width: 650px !important;
+	box-shadow: 0 0 20px 6px rgba(0, 0, 0, 0.3);
+	background-color: rgb(21, 32, 43);
+	border-color: #0d161e !important;
 }
 
 body {
-  background: #151e27 !important;
-  font-family: "Avenir", Helvetica, Arial, sans-serif !important;
-  -webkit-font-smoothing: antialiased !important;
-  -moz-osx-font-smoothing: grayscale !important;
+	background: #151e27 !important;
+	font-family: "Avenir", Helvetica, Arial, sans-serif !important;
+	-webkit-font-smoothing: antialiased !important;
+	-moz-osx-font-smoothing: grayscale !important;
 }
 
 span,
@@ -44,99 +36,99 @@ div,
 article,
 aside,
 main {
-  font-family: "Avenir", Helvetica, Arial, sans-serif !important;
-  -webkit-font-smoothing: antialiased !important;
-  -moz-osx-font-smoothing: grayscale !important;
-  letter-spacing: 0.01em;
+	font-family: "Avenir", Helvetica, Arial, sans-serif !important;
+	-webkit-font-smoothing: antialiased !important;
+	-moz-osx-font-smoothing: grayscale !important;
+	letter-spacing: 0.01em;
 }
 
 article {
-  border-color: #151e27 !important;
-  padding: 20px 10px 5px 10px !important;
-  font-size: 17px;
-  max-width: 650px !important;
-  transition: none !important;
+	border-color: #151e27 !important;
+	padding: 20px 10px 5px 10px !important;
+	font-size: 17px;
+	max-width: 650px !important;
+	transition: none !important;
 }
 
 article div div div div {
-  font-size: 17px !important;
-  line-height: 1.5;
+	font-size: 17px !important;
+	line-height: 1.5;
 }
 
 div {
-  border-color: #06090c !important;
+	border-color: #06090c !important;
 }
 
 header div div div div div {
-  padding: 12px 0;
+	padding: 12px 0;
 }
 
 div[aria-live="polite"] {
-  padding: 2px;
-  font-size: 12px !important;
-  line-height: 1.2em !important;
-  top: -15px;
-  right: -10px;
-  width: 22px !important;
-  height: 22px !important;
-  text-align: center !important;
+	padding: 2px;
+	font-size: 12px !important;
+	line-height: 1.2em !important;
+	top: -15px;
+	right: -10px;
+	width: 22px !important;
+	height: 22px !important;
+	text-align: center !important;
 }
 
 div[aria-live="polite"][aria-label="20+ unread items"] {
-  width: 32px !important;
-  height: 21px !important;
-  right: -20px !important;
-  padding-top: 4px !important;
+	width: 32px !important;
+	height: 21px !important;
+	right: -20px !important;
+	padding-top: 4px !important;
 }
 
 div[role="blockquote"] {
-  padding: 10px;
+	padding: 10px;
 }
 
 article div div a + div:empty {
-  background: linear-gradient(rgb(242, 101, 102, 0.8), #1d1f33);
+	background: linear-gradient(rgb(242, 101, 102, 0.8), #1d1f33);
 }
 
 div[data-testid="sidebarColumn"] {
-  visibility: hidden !important;
-  width: 125px !important;
+	visibility: hidden !important;
+	width: 125px !important;
 }
 
 form[aria-label="Search Twitter"][role="search"] {
-  visibility: visible !important;
-  position: fixed !important;
-  width: 270px !important;
-  top: 8px;
-  right: 20px;
+	visibility: visible !important;
+	position: fixed !important;
+	width: 270px !important;
+	top: 8px;
+	right: 20px;
 }
 
 div[aria-modal="true"] div div div div div div div div div div div div div {
-  border: 0 !important;
-  border-width: 0 !important;
+	border: 0 !important;
+	border-width: 0 !important;
 }
 
 div[data-testid="tweet"] > div > div:first-child:empty {
-  display: none !important;
+	display: none !important;
 }
 
 a[aria-label="Profile"] img {
-  width: 30px;
-  height: 30px;
-  position: absolute;
-  opacity: 1;
+	width: 30px;
+	height: 30px;
+	position: absolute;
+	opacity: 1;
 }
 
 svg[aria-label="Verified account"] {
-  /* lol */
-  display: none;
+	/* lol */
+	display: none;
 }
 
 div[role="menu"],
 div[aria-label="New Tweets are available. Push period to go to the beginning of your timeline and view them"] {
-  /* get rid of that weird glowy box-shadow on dim mode, damn */
-  box-shadow: 0 0 8px 3px rgba(0, 0, 0, 0.3) !important;
+	/* get rid of that weird glowy box-shadow on dim mode, damn */
+	box-shadow: 0 0 8px 3px rgba(0, 0, 0, 0.3) !important;
 }
 
 article[data-testid="tweetDetail"] > div:first-child {
-  display: none;
+	display: none;
 }
