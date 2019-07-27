@@ -11,7 +11,7 @@ div[aria-label="Timeline: Trending now"] {
 	top: 50px;
 	right: 20px;
 }
-.css-1dbjc4n div[role="button"] {
+div[aria-label="Timeline: Trending now"] div[role="button"] {
 	display: none;
 }
 
