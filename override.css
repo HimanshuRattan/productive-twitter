@@ -29,6 +29,7 @@ header {
 
 div[data-testid="primaryColumn"] {
 	max-width: 650px !important;
+	margin-left: 2vw !important;
 	box-shadow: 0 0 20px 6px rgba(0, 0, 0, 0.3);
 	background-color: #000000;
 	border-color: #0d161e !important;
