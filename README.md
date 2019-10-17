@@ -1,6 +1,6 @@
 # Productive twitter
 
-> Twitter theme to increase productivity as per changes in July 2019.
+> Twitter theme to increase your productivity as per changes in July 2019.
 
 ![twitter1](https://user-images.githubusercontent.com/35609063/61998439-b3a17d00-b0cd-11e9-845e-af61e79da2d3.JPG)
 
